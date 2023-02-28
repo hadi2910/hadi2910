@@ -1,7 +1,7 @@
 Hi 👋 My name is Hadi Hasan Lubis
 =================================
 
-i'm a web depelover
+I'm studying to be a web developer
 -------------------
 
 i've been learning to code for 2 years.I started with html, but have really found a passions for front end development
